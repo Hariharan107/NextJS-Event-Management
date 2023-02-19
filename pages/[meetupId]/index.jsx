@@ -41,7 +41,7 @@ export const getStaticPaths = async () => {
   client.close();
   return {
     paths: singleMeetupData,
-    fallback: false,
+    fallback:'blocking' ,
   };
 };
 export const getStaticProps = async (context) => {
