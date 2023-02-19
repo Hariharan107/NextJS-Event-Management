@@ -1,0 +1,1 @@
+{"ast":null,"code":"const data = [{\n  name: \"Hari\"\n}];","map":{"version":3,"sources":["D:/Next_Js/06-onwards-to-a-bigger-project-starting-project/pages/api/new-meetup.js"],"names":["data","name"],"mappings":"AAAA,MAAMA,IAAI,GAAC,CAAC;AACRC,EAAAA,IAAI,EAAC;AADG,CAAD,CAAX","sourcesContent":["const data=[{\r\n    name:\"Hari\"\r\n}]"]},"metadata":{},"sourceType":"script"}
